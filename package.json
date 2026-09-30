@@ -1,5 +1,5 @@
 {
-  "name": "cli-cursor-manager-root",
+  "name": "@felipemadson/cli-cursor-manager",
   "version": "1.1.0",
   "private": true,
   "type": "module",
@@ -19,5 +19,9 @@
     "cli-cursor-manager"
   ],
   "author": "Felipe Madison (@FelipeMadson)",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "cli-cursor-manager": "./bin/cli.js",
+    "@felipemadson/cli-cursor-manager": "./bin/cli.js"
+  }
 }

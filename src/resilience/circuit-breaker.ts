@@ -3,6 +3,8 @@
 // Author: Felipe Madison (@FelipeMadson)
 // =========================================================================
 
+export { TokenBucketRateLimiter } from "./token-bucket.ts";
+
 export type CircuitState = "CLOSED" | "OPEN" | "HALF_OPEN";
 
 export interface CircuitBreakerOptions {
