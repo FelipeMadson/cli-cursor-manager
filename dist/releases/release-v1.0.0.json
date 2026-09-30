@@ -2,9 +2,9 @@
   "slug": "cli-cursor-manager",
   "version": "v1.0.0",
   "archiveFilename": "cli-cursor-manager-v1.0.0.tar.gz",
-  "archiveSizeBytes": 26413,
-  "sha256": "54169df46873b6f91a00fda55f454204772778bb5a64f33b3a556aa163f5c252",
-  "filesIncluded": 38,
-  "createdAt": "2026-09-30T14:53:43.583Z",
+  "archiveSizeBytes": 41529,
+  "sha256": "101e2fc9c3e5288c4dd3de9d84ccafc7264533571c412a664c89bd115618789c",
+  "filesIncluded": 55,
+  "createdAt": "2026-09-30T15:18:11.908Z",
   "author": "Felipe Madison (@FelipeMadson)"
 }
