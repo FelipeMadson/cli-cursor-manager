@@ -1,0 +1,46 @@
+{
+  "spdxVersion": "SPDX-2.3",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "Cli Cursor Manager SBOM",
+  "documentNamespace": "https://github.com/FelipeMadson/cli-cursor-manager/spdxdocs/cli-cursor-manager-1.0.0-8d16de16-4c72-4edd-b651-9da6e4ac9a00",
+  "creationInfo": {
+    "created": "2026-09-30T15:18:11.894Z",
+    "creators": [
+      "Person: Felipe Madison (@FelipeMadson)",
+      "Organization: Autonomous Portfolio Engine — Staff Engineering Grade",
+      "Tool: SecurityCiGenerator-1.0.0"
+    ],
+    "licenseListVersion": "3.21"
+  },
+  "packages": [
+    {
+      "name": "cli-cursor-manager",
+      "SPDXID": "SPDXRef-Package-cli-cursor-manager",
+      "versionInfo": "1.0.0",
+      "packageFileName": "cli-cursor-manager-1.0.0.tar.gz",
+      "packageSupplier": "Person: Felipe Madison (https://github.com/FelipeMadson)",
+      "originator": "Person: Felipe Madison (https://github.com/FelipeMadson)",
+      "downloadLocation": "git+https://github.com/FelipeMadson/cli-cursor-manager.git@v1.0.0",
+      "filesAnalyzed": false,
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "efeb6d02df13829bd1e6b56a76b3cd39c66fa3a4ebaf45504fea4b4fa9fac75c"
+        }
+      ],
+      "homepage": "https://github.com/FelipeMadson/cli-cursor-manager",
+      "concludedLicense": "MIT",
+      "declaredLicense": "MIT",
+      "copyrightText": "Copyright (c) 2026 Felipe Madison (@FelipeMadson)",
+      "description": "Enterprise-grade production release for Cli Cursor Manager, engineered by Felipe Madison."
+    }
+  ],
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-Package-cli-cursor-manager",
+      "relationshipType": "DESCRIBES"
+    }
+  ]
+}
