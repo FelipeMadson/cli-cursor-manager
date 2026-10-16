@@ -1,5 +1,8 @@
 # CLI Cursor Manager
 
+> 🇧🇷 **[Versão em Português](README.pt-BR.md)** | 🇺🇸 **English Version**
+
+
 [![CI Status](https://github.com/FelipeMadson/cli-cursor-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/FelipeMadson/cli-cursor-manager/actions)
 [![Latest Release](https://img.shields.io/github/v/release/FelipeMadson/cli-cursor-manager?color=145e4d&logo=github)](https://github.com/FelipeMadson/cli-cursor-manager/releases)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-145e4d?logo=github)](https://felipemadson.github.io/cli-cursor-manager/)
